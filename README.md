@@ -1,16 +1,10 @@
-# Halo, Saya Heru! 👋
-Sebagai pengembang yang bersemangat dalam menciptakan solusi digital yang inovatif dan efisien, 
-saya memiliki keahlian dalam pengembangan **mobile**, **web**, dan **desktop**. 
-Saya selalu siap untuk menghadapi tantangan baru dan meningkatkan keterampilan saya.
+#Halo Heru! 👋
 
-## 🚀 Tentang Saya
-- 📱 Pengembang **Mobile** yang mahir dalam Flutter, React Native, dan **Kotlin**.
-- 💻 Pengembang **Web** dengan pengalaman dalam JavaScript, React.js, dan Node.js.
-- 🖥️ Pengembang **Desktop** yang menciptakan aplikasi yang responsif dengan Electron.
-- 🌟 Berfokus pada UX/UI untuk memberikan pengalaman pengguna yang terbaik.
+Saya adalah pengembang yang terampil dalam **mobile**, **web**, dan **desktop**, dengan keahlian di Flutter, React Native, Kotlin, JavaScript, React.js, dan Node.js. Saya berkomitmen untuk menciptakan solusi digital yang inovatif dan memiliki fokus kuat pada UX/UI.
 
-## 📫 Hubungi Saya
-- Email: herurizaldi24.com
-- LinkedIn: linkedin.com/in/heru-rizaldi
----
-Saya percaya bahwa teknologi dapat membuat dunia menjadi tempat yang lebih baik, dan saya berdedikasi untuk membuat itu menjadi kenyataan. Mari kita kolaborasi! 🌟
+📫 **Kontak**:
+- Email: [herurizaldi24.com](mailto:herurizaldi24.com)
+- LinkedIn: [Heru Rizaldi](https://linkedin.com/in/heru-rizaldi)
+
+Mari berkolaborasi untuk memanfaatkan teknologi demi dunia yang lebih baik! 🚀
+
