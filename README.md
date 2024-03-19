@@ -1,5 +1,7 @@
 # Halo, Saya Heru! 👋
-Sebagai pengembang yang bersemangat dalam menciptakan solusi digital yang inovatif dan efisien, saya memiliki keahlian dalam pengembangan **mobile**, **web**, dan **desktop**. Saya selalu siap untuk menghadapi tantangan baru dan meningkatkan keterampilan saya.
+Sebagai pengembang yang bersemangat dalam menciptakan solusi digital yang inovatif dan efisien, 
+saya memiliki keahlian dalam pengembangan **mobile**, **web**, dan **desktop**. 
+Saya selalu siap untuk menghadapi tantangan baru dan meningkatkan keterampilan saya.
 
 ## 🚀 Tentang Saya
 - 📱 Pengembang **Mobile** yang mahir dalam Flutter, React Native, dan **Kotlin**.
