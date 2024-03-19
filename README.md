@@ -1,16 +1,25 @@
-### Hi there 👋
+# Halo, Saya Heru! 👋
 
-<!--
-**heru2403/heru2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sebagai pengembang yang bersemangat dalam menciptakan solusi digital yang inovatif dan efisien, saya memiliki keahlian dalam pengembangan **mobile**, **web**, dan **desktop**. Saya selalu siap untuk menghadapi tantangan baru dan meningkatkan keterampilan saya.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 📱 Pengembang **Mobile** yang mahir dalam Flutter, React Native, dan **Kotlin**.
+- 💻 Pengembang **Web** dengan pengalaman dalam JavaScript, React.js, dan Node.js.
+- 🖥️ Pengembang **Desktop** yang menciptakan aplikasi yang responsif dengan Electron.
+- 🌟 Berfokus pada UX/UI untuk memberikan pengalaman pengguna yang terbaik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Keterampilan Teknis
+- Bahasa Pemrograman: `Java`, `JavaScript`, , `Python`, **`Kotlin`**
+- Framework: `Flutter`, `React Native`, `React.js`, `Node.js`, `Electron`
+- Alat & Teknologi: `Git`, `Docker`, `Firebase`, `AWS`
+
+## 📈 Statistik GitHub
+!Statistik GitHub
+
+## 📫 Hubungi Saya
+- Email: herurizaldi24.com
+- LinkedIn: linkedin.com/in/heru-rizaldi
+
+---
+
+Saya percaya bahwa teknologi dapat membuat dunia menjadi tempat yang lebih baik, dan saya berdedikasi untuk membuat itu menjadi kenyataan. Mari kita kolaborasi! 🌟
